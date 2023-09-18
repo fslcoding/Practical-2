@@ -1,4 +1,4 @@
-# Practical Two, Task 6
+# Practical Two, Task Six
 
 **_Activity_**
 
