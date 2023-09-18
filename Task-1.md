@@ -1,5 +1,7 @@
 # Practical 2, Task One
 
+**_Walkthrough_**
+
 ## Creating a mobile phone program
 
 You go into a mobile phone shop to buy a phone, what options do you have?
